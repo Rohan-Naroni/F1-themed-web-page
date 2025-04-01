@@ -7,4 +7,3 @@ I created this F1-themed web page using HTML and CSS to display player names alo
 
 # CLick On The Link To See Output :
 * [Click Here](https://Rohan-Naroni.github.io/F1-themed-web-page/npm/main/index.html)
-* [Click Here](https://Rohan-Naroni.github.io/landing-page/npm/index.html)
